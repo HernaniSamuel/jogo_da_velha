@@ -1,1 +1,2 @@
-# jogo_da_velha
+Programei o jogo da velha orientado a objetos em python;
+Sou iniciante e com certeza este código e os diagramas tem muito a ser melhorado...
